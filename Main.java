@@ -35,7 +35,5 @@ public class Main {
             ConvertHexadecimal converthexadecimal = new ConvertHexadecimal();
             hexadecimal= converthexadecimal.convertToHexadecimal(num);
         }
-
-
     }
 }
